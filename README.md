@@ -1,5 +1,12 @@
 Aplicación creada con:  [Create React App](https://github.com/facebook/create-react-app).
 
+Aplicación montada con la Api de SHOPIFY, la cual ofrece productos y variadas funciones para armar un ecommerce:
+
+checkout de compra.
+registro en el caché de los productos en el carrito.
+session de usuario
+entre otros.
+
 ## Scripts disponibles: 
 
 En el directorio del proyecto puedes correr
